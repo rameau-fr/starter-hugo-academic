@@ -25,7 +25,7 @@ experience:
   - title: Post-Doc 
     company: KAIST
     company_url: 'http://rcv.kaist.ac.kr/'
-    company_logo: kaist-logo
+    company_logo: KAIST_logo
     location: Daejeon, Korea
     date_start: '2015-04-03'
     date_end: '2017-02-28'
@@ -33,7 +33,7 @@ experience:
   - title: Research Associate Professor
     company: KAIST
     company_url: 'https://www.kaist.ac.kr/kr/'
-    company_logo: kaist-logo
+    company_logo: KAIST_logo
     location: Daejeon, Korea
     date_start: '2017-03-01'
     date_end: '2022-08-31'
